@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Monk_Bike/static/css/main.b5523e44.css",
+    "main.js": "/Monk_Bike/static/js/main.3c4bdbfa.js",
+    "static/js/453.d7c84326.chunk.js": "/Monk_Bike/static/js/453.d7c84326.chunk.js",
+    "static/media/shine.png": "/Monk_Bike/static/media/shine.fd06224ab0a8631c3295.png",
+    "static/media/activa5g.png": "/Monk_Bike/static/media/activa5g.10f5c388d84d67d73c25.png",
+    "static/media/dio.png": "/Monk_Bike/static/media/dio.baf9d67a5272f67b5a13.png",
+    "static/media/jupiter.png": "/Monk_Bike/static/media/jupiter.ed2fa7e7fc223a7e352d.png",
+    "static/media/yamaha.png": "/Monk_Bike/static/media/yamaha.29adb4b4c84d1b9c64b5.png",
+    "static/media/login.jpg": "/Monk_Bike/static/media/login.7094fa58ebf6a89298f7.jpg",
+    "static/media/avenger.png": "/Monk_Bike/static/media/avenger.524f3b2231c84dc7ecb9.png",
+    "static/media/bg4.png": "/Monk_Bike/static/media/bg4.471e88192e23e1f33f0c.png",
+    "static/media/logo.png": "/Monk_Bike/static/media/logo.3ea916ce45039addadf6.png",
+    "static/media/bullet.png": "/Monk_Bike/static/media/bullet.950e8bf5c6cac6f12bcc.png",
+    "static/media/activa.jpg": "/Monk_Bike/static/media/activa.54bb2391cb8ed9c739e6.jpg",
+    "static/media/slick.svg": "/Monk_Bike/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Monk_Bike/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Monk_Bike/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Monk_Bike/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Monk_Bike/index.html",
+    "main.b5523e44.css.map": "/Monk_Bike/static/css/main.b5523e44.css.map",
+    "main.3c4bdbfa.js.map": "/Monk_Bike/static/js/main.3c4bdbfa.js.map",
+    "453.d7c84326.chunk.js.map": "/Monk_Bike/static/js/453.d7c84326.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5523e44.css",
+    "static/js/main.3c4bdbfa.js"
+  ]
+}
