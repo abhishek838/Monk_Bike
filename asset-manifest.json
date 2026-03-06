@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Monk_Bike/static/css/main.b5523e44.css",
-    "main.js": "/Monk_Bike/static/js/main.3c4bdbfa.js",
+    "main.js": "/Monk_Bike/static/js/main.05d5bdac.js",
     "static/js/453.d7c84326.chunk.js": "/Monk_Bike/static/js/453.d7c84326.chunk.js",
     "static/media/shine.png": "/Monk_Bike/static/media/shine.fd06224ab0a8631c3295.png",
     "static/media/activa5g.png": "/Monk_Bike/static/media/activa5g.10f5c388d84d67d73c25.png",
@@ -20,11 +20,11 @@
     "static/media/slick.woff": "/Monk_Bike/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Monk_Bike/index.html",
     "main.b5523e44.css.map": "/Monk_Bike/static/css/main.b5523e44.css.map",
-    "main.3c4bdbfa.js.map": "/Monk_Bike/static/js/main.3c4bdbfa.js.map",
+    "main.05d5bdac.js.map": "/Monk_Bike/static/js/main.05d5bdac.js.map",
     "453.d7c84326.chunk.js.map": "/Monk_Bike/static/js/453.d7c84326.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b5523e44.css",
-    "static/js/main.3c4bdbfa.js"
+    "static/js/main.05d5bdac.js"
   ]
 }
