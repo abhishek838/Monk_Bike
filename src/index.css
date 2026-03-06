@@ -11,3 +11,56 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.rent-button {
+  background-color: #FFD600;
+  color: #222;
+  border: none;
+  border-radius: 8px;
+  height: 43px;                      /* Matches input height */
+  padding: 0 2rem;                   /* Horizontal padding only */
+  font-weight: 600;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: all 0.22s ease-in-out;
+  margin-left: 1rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.rent-button:hover {
+  background-color: #ffcc00;
+  transform: scale(1.05);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.18);
+}
+
+.rent-button:focus {
+  outline: 2px solid #222;
+  outline-offset: 3px;
+}
+
+.button[type="submit"]:hover {
+  background: #131310;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.13);
+}
+
+.register-button, button[type="submit"] {
+  transition: background 0.2s, box-shadow 0.2s, transform 0.18s;
+}
+.register-button:hover, button[type="submit"]:hover {
+  background: #ffcc00;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.13);
+  transform: translateY(-2px) scale(1.03);
+}
+
+
+body, html {
+  overflow-x: hidden;
+  width: 100vw;
+  box-sizing: border-box;
+}
+/* Add slick carousel CSS */
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
