@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 import Navbar from "./components/Navbar";
-import Footer from "./components/Footer"; 
+import Footer from "./components/Footer";
 import Contact from "./pages/Contact";
 import Home from "./pages/Home";
 import SecondPage from "./pages/SecondPage";
@@ -16,8 +16,9 @@ import { AuthProvider } from "./context/AuthContext";
 function App() {
   return (
     <AuthProvider>
-      <Router>
+      <Router basename="/Monk_Bike">
         <Navbar />
+
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/second" element={<SecondPage />} />
@@ -32,6 +33,7 @@ function App() {
               </ProtectedRoute>
             }
           />
+
           <Route
             path="/bookings"
             element={
@@ -40,9 +42,11 @@ function App() {
               </ProtectedRoute>
             }
           />
+
           <Route path="/login" element={<Login />} />
           <Route path="/register" element={<Register />} />
         </Routes>
+
         <Footer />
       </Router>
     </AuthProvider>
